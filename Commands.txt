@@ -1,0 +1,25 @@
+Using GitBash: Example
+
+mkdir work
+
+cd work
+
+git clone https://github.com/SoftUni/test.git
+
+dir
+
+cd test
+
+dir
+
+git status
+
+(edit some file)
+
+git status
+
+git add .
+
+git commit -m "changes"
+
+git push
